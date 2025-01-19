@@ -10,4 +10,4 @@ Crea dos conjuntos: uno con los días de la semana y otro con días de fin de se
 
 #Ejercicios: Mapas
 Crea un mapa inmutable de productos y sus precios. Añade un nuevo producto y muestra el mapa original y el actualizado.
-Usa un mapa de productos y precios para filtrar solo aquellos que cuestan más de 0.4. Imprime el mapa resultante.
+Usa un mapa de productos y precios para filtrar solo aquellos que cuestan más de 0.4. Imprime el mapa resultante
