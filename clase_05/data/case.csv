@@ -1,0 +1,175 @@
+﻿case_id;province;city;group;infection_case;confirmed;latitude;longitude
+1000001;Seoul;Yongsan-gu;VERDADERO;Itaewon Clubs;139;37,538,621;126,992,652
+1000002;Seoul;Gwanak-gu;VERDADERO;Richway;119;3,748,208;126,901,384
+1000003;Seoul;Guro-gu;VERDADERO;Guro-gu Call Center;95;37,508,163;126,884,387
+1000004;Seoul;Yangcheon-gu;VERDADERO;Yangcheon Table Tennis Club;43;37,546,061;126,874,209
+1000005;Seoul;Dobong-gu;VERDADERO;Day Care Center;43;37,679,422;127,044,374
+1000006;Seoul;Guro-gu;VERDADERO;Manmin Central Church;41;37,481,059;126,894,343
+1000007;Seoul;from other city;VERDADERO;SMR Newly Planted Churches Group;36;-;-
+1000008;Seoul;Dongdaemun-gu;VERDADERO;Dongan Church;17;37,592,888;127,056,766
+1000009;Seoul;from other city;VERDADERO;Coupang Logistics Center;25;-;-
+1000010;Seoul;Gwanak-gu;VERDADERO;Wangsung Church;30;37,481,735;126,930,121
+1000011;Seoul;Eunpyeong-gu;VERDADERO;Eunpyeong St. Mary's Hospital;14;3,763,369;1,269,165
+1000012;Seoul;Seongdong-gu;VERDADERO;Seongdong-gu APT;13;3,755,713;1,270,403
+1000013;Seoul;Jongno-gu;VERDADERO;Jongno Community Center;10;3,757,681;127,006
+1000014;Seoul;Gangnam-gu;VERDADERO;Samsung Medical Center;7;3,748,825;12,708,559
+1000015;Seoul;Jung-gu;VERDADERO;Jung-gu Fashion Company;7;37,562,405;126,984,377
+1000016;Seoul;Seodaemun-gu;VERDADERO;Yeonana News Class;5;37,558,147;126,943,799
+1000017;Seoul;Jongno-gu;VERDADERO;Korea Campus Crusade of Christ;7;37,594,782;126,968,022
+1000018;Seoul;Gangnam-gu;VERDADERO;Gangnam Yeoksam-dong gathering;6;-;-
+1000019;Seoul;from other city;VERDADERO;Daejeon door-to-door sales;1;-;-
+1000020;Seoul;Geumcheon-gu;VERDADERO;Geumcheon-gu rice milling machine manufacture;6;-;-
+1000021;Seoul;from other city;VERDADERO;Shincheonji Church;8;-;-
+1000022;Seoul;from other city;VERDADERO;Guri Collective Infection;5;-;-
+1000023;Seoul;Jung-gu;VERDADERO;KB Life Insurance;13;37,560,899;126,966,998
+1000024;Seoul;Yeongdeungpo-gu;VERDADERO;Yeongdeungpo Learning Institute;3;37,520,846;126,931,278
+1000025;Seoul;Gangnam-gu;VERDADERO;Gangnam Dongin Church;1;37,522,331;127,057,388
+1000026;Seoul;Yangcheon-gu;VERDADERO;Biblical Language study meeting;3;37,524,623;126,843,118
+1000027;Seoul;Seocho-gu;VERDADERO;Seocho Family;5;-;-
+1000028;Seoul;from other city;VERDADERO;Anyang Gunpo Pastors Group;1;-;-
+1000029;Seoul;Gangnam-gu;VERDADERO;Samsung Fire & Marine Insurance;4;37,498,279;127,030,139
+1000030;Seoul;Gangseo-gu;VERDADERO;SJ Investment Call Center;0;37,559,649;126,835,102
+1000031;Seoul;from other city;VERDADERO;Yongin Brothers;4;-;-
+1000032;Seoul;Jung-gu;VERDADERO;Seoul City Hall Station safety worker;3;37,565,699;126,977,079
+1000033;Seoul;from other city;VERDADERO;Uiwang Logistics Center;2;-;-
+1000034;Seoul;-;VERDADERO;Orange Life;1;-;-
+1000035;Seoul;Guro-gu;VERDADERO;Daezayeon Korea;3;37,486,837;126,893,163
+1000036;Seoul;-;FALSO;overseas inflow;298;-;-
+1000037;Seoul;-;FALSO;contact with patient;162;-;-
+1000038;Seoul;-;FALSO;etc;100;-;-
+1100001;Busan;Dongnae-gu;VERDADERO;Onchun Church;39;3,521,628;1,290,771
+1100002;Busan;from other city;VERDADERO;Shincheonji Church;12;-;-
+1100003;Busan;Suyeong-gu;VERDADERO;Suyeong-gu Kindergarten;5;3,516,708;1,291,124
+1100004;Busan;Haeundae-gu;VERDADERO;Haeundae-gu Catholic Church;6;3,520,599;1,291,256
+1100005;Busan;Jin-gu;VERDADERO;Jin-gu Academy;4;3,517,371;1,290,633
+1100006;Busan;from other city;VERDADERO;Itaewon Clubs;4;-;-
+1100007;Busan;from other city;VERDADERO;Cheongdo Daenam Hospital;1;-;-
+1100008;Busan;-;FALSO;overseas inflow;36;-;-
+1100009;Busan;-;FALSO;contact with patient;19;-;-
+1100010;Busan;-;FALSO;etc;30;-;-
+1200001;Daegu;Nam-gu;VERDADERO;Shincheonji Church;4511;3,584,008;1,285,667
+1200002;Daegu;Dalseong-gun;VERDADERO;Second Mi-Ju Hospital;196;35,857,375;128,466,651
+1200003;Daegu;Seo-gu;VERDADERO;Hansarang Convalescent Hospital;124;35,885,592;128,556,649
+1200004;Daegu;Dalseong-gun;VERDADERO;Daesil Convalescent Hospital;101;35,857,393;128,466,653
+1200005;Daegu;Dong-gu;VERDADERO;Fatima Hospital;39;3,588,395;128,624,059
+1200006;Daegu;from other city;VERDADERO;Itaewon Clubs;2;-;-
+1200007;Daegu;from other city;VERDADERO;Cheongdo Daenam Hospital;2;-;-
+1200008;Daegu;-;FALSO;overseas inflow;41;-;-
+1200009;Daegu;-;FALSO;contact with patient;917;-;-
+1200010;Daegu;-;FALSO;etc;747;-;-
+1300001;Gwangju;Dong-gu;VERDADERO;Gwangneuksa Temple;5;35,136,035;126,956,405
+1300002;Gwangju;from other city;VERDADERO;Shincheonji Church;9;-;-
+1300003;Gwangju;-;FALSO;overseas inflow;23;-;-
+1300004;Gwangju;-;FALSO;contact with patient;5;-;-
+1300005;Gwangju;-;FALSO;etc;1;-;-
+1400001;Incheon;from other city;VERDADERO;Itaewon Clubs;53;-;-
+1400002;Incheon;from other city;VERDADERO;Coupang Logistics Center;42;-;-
+1400003;Incheon;from other city;VERDADERO;Guro-gu Call Center;20;-;-
+1400004;Incheon;from other city;VERDADERO;Shincheonji Church;2;-;-
+1400005;Incheon;-;FALSO;overseas inflow;68;-;-
+1400006;Incheon;-;FALSO;contact with patient;6;-;-
+1400007;Incheon;-;FALSO;etc;11;-;-
+1500001;Daejeon;-;VERDADERO;Door-to-door sales in Daejeon;55;-;-
+1500002;Daejeon;Seo-gu;VERDADERO;Dunsan Electronics Town;13;363,400,973;1,273,927,099
+1500003;Daejeon;Seo-gu;VERDADERO;Orange Town;7;363,398,739;1,273,819,744
+1500004;Daejeon;Seo-gu;VERDADERO;Dreaming Church;4;36,346,869;127,368,594
+1500005;Daejeon;Seo-gu;VERDADERO;Korea Forest Engineer Institute;3;36,358,123;127,388,856
+1500006;Daejeon;from other city;VERDADERO;Shincheonji Church;2;-;-
+1500007;Daejeon;from other city;VERDADERO;Seosan-si Laboratory;2;-;-
+1500008;Daejeon;-;FALSO;overseas inflow;15;-;-
+1500009;Daejeon;-;FALSO;contact with patient;15;-;-
+1500010;Daejeon;-;FALSO;etc;15;-;-
+1600001;Ulsan;from other city;VERDADERO;Shincheonji Church;16;-;-
+1600002;Ulsan;-;FALSO;overseas inflow;25;-;-
+1600003;Ulsan;-;FALSO;contact with patient;3;-;-
+1600004;Ulsan;-;FALSO;etc;7;-;-
+1700001;Sejong;Sejong;VERDADERO;Ministry of Oceans and Fisheries;31;36,504,713;127,265,172
+1700002;Sejong;Sejong;VERDADERO;gym facility in Sejong;8;3,648,025;127,289
+1700003;Sejong;from other city;VERDADERO;Shincheonji Church;1;-;-
+1700004;Sejong;-;FALSO;overseas inflow;5;-;-
+1700005;Sejong;-;FALSO;contact with patient;3;-;-
+1700006;Sejong;-;FALSO;etc;1;-;-
+2000001;Gyeonggi-do;Seongnam-si;VERDADERO;River of Grace Community Church;67;37,455,687;127,161,627
+2000002;Gyeonggi-do;Bucheon-si;VERDADERO;Coupang Logistics Center;67;37,530,579;126,775,254
+2000003;Gyeonggi-do;from other city;VERDADERO;Itaewon Clubs;59;-;-
+2000004;Gyeonggi-do;from other city;VERDADERO;Richway;58;-;-
+2000005;Gyeonggi-do;Uijeongbu-si;VERDADERO;Uijeongbu St. Mary’s Hospital;50;37,758,635;127,077,716
+2000006;Gyeonggi-do;from other city;VERDADERO;Guro-gu Call Center;50;-;-
+2000007;Gyeonggi-do;from other city;VERDADERO;Shincheonji Church;29;-;-
+2000008;Gyeonggi-do;from other city;VERDADERO;Yangcheon Table Tennis Club;28;-;-
+2000009;Gyeonggi-do;-;VERDADERO;SMR Newly Planted Churches Group;25;-;-
+2000010;Gyeonggi-do;Seongnam-si;VERDADERO;Bundang Jesaeng Hospital;22;3,738,833;1,271,218
+2000011;Gyeonggi-do;Anyang-si;VERDADERO;Anyang Gunpo Pastors Group;22;37,381,784;12,693,615
+2000012;Gyeonggi-do;Suwon-si;VERDADERO;Lotte Confectionery logistics center;15;37,287,356;127,013,827
+2000013;Gyeonggi-do;Anyang-si;VERDADERO;Lord Glory Church;17;37,403,722;126,954,939
+2000014;Gyeonggi-do;Suwon-si;VERDADERO;Suwon Saeng Myeong Saem Church;10;372,376;1,270,517
+2000015;Gyeonggi-do;from other city;VERDADERO;Korea Campus Crusade of Christ;7;-;-
+2000016;Gyeonggi-do;from other city;VERDADERO;Geumcheon-gu rice milling machine manufacture;6;-;-
+2000017;Gyeonggi-do;from other city;VERDADERO;Wangsung Church;6;-;-
+2000018;Gyeonggi-do;from other city;VERDADERO;Seoul City Hall Station safety worker;5;-;-
+2000019;Gyeonggi-do;Seongnam-si;VERDADERO;Seongnam neighbors gathering;5;-;-
+2000020;Gyeonggi-do;-;FALSO;overseas inflow;305;-;-
+2000021;Gyeonggi-do;-;FALSO;contact with patient;63;-;-
+2000022;Gyeonggi-do;-;FALSO;etc;84;-;-
+3000001;Gangwon-do;from other city;VERDADERO;Shincheonji Church;17;-;-
+3000002;Gangwon-do;from other city;VERDADERO;Uijeongbu St. Mary’s Hospital;10;-;-
+3000003;Gangwon-do;Wonju-si;VERDADERO;Wonju-si Apartments;4;37,342,762;127,983,815
+3000004;Gangwon-do;from other city;VERDADERO;Richway;4;-;-
+3000005;Gangwon-do;from other city;VERDADERO;Geumcheon-gu rice milling machine manufacture;4;-;-
+3000006;Gangwon-do;-;FALSO;overseas inflow;16;-;-
+3000007;Gangwon-do;-;FALSO;contact with patient;0;-;-
+3000008;Gangwon-do;-;FALSO;etc;7;-;-
+4000001;Chungcheongbuk-do;Goesan-gun;VERDADERO;Goesan-gun Jangyeon-myeon;11;3,682,422;1,279,552
+4000002;Chungcheongbuk-do;from other city;VERDADERO;Itaewon Clubs;9;-;-
+4000003;Chungcheongbuk-do;from other city;VERDADERO;Guro-gu Call Center;2;-;-
+4000004;Chungcheongbuk-do;from other city;VERDADERO;Shincheonji Church;6;-;-
+4000005;Chungcheongbuk-do;-;FALSO;overseas inflow;13;-;-
+4000006;Chungcheongbuk-do;-;FALSO;contact with patient;8;-;-
+4000007;Chungcheongbuk-do;-;FALSO;etc;11;-;-
+4100001;Chungcheongnam-do;Cheonan-si;VERDADERO;gym facility in Cheonan;103;3,681,503;1,271,139
+4100002;Chungcheongnam-do;from other city;VERDADERO;Door-to-door sales in Daejeon;10;-;-
+4100003;Chungcheongnam-do;Seosan-si;VERDADERO;Seosan-si Laboratory;9;37,000,354;126,354,443
+4100004;Chungcheongnam-do;from other city;VERDADERO;Richway;3;-;-
+4100005;Chungcheongnam-do;from other city;VERDADERO;Eunpyeong-Boksagol culture center;3;-;-
+4100006;Chungcheongnam-do;-;FALSO;overseas inflow;16;-;-
+4100007;Chungcheongnam-do;-;FALSO;contact with patient;2;-;-
+4100008;Chungcheongnam-do;-;FALSO;etc;12;-;-
+5000001;Jeollabuk-do;from other city;VERDADERO;Itaewon Clubs;2;-;-
+5000002;Jeollabuk-do;from other city;VERDADERO;Door-to-door sales in Daejeon;3;-;-
+5000003;Jeollabuk-do;from other city;VERDADERO;Shincheonji Church;1;-;-
+5000004;Jeollabuk-do;-;FALSO;overseas inflow;12;-;-
+5000005;Jeollabuk-do;-;FALSO;etc;5;-;-
+5100001;Jeollanam-do;Muan-gun;VERDADERO;Manmin Central Church;2;35,078,825;126,316,746
+5100002;Jeollanam-do;from other city;VERDADERO;Shincheonji Church;1;-;-
+5100003;Jeollanam-do;-;FALSO;overseas inflow;14;-;-
+5100004;Jeollanam-do;-;FALSO;contact with patient;4;-;-
+5100005;Jeollanam-do;-;FALSO;etc;4;-;-
+6000001;Gyeongsangbuk-do;from other city;VERDADERO;Shincheonji Church;566;-;-
+6000002;Gyeongsangbuk-do;Cheongdo-gun;VERDADERO;Cheongdo Daenam Hospital;119;3,564,887;1,287,368
+6000003;Gyeongsangbuk-do;Bonghwa-gun;VERDADERO;Bonghwa Pureun Nursing Home;68;3,692,757;1,289,099
+6000004;Gyeongsangbuk-do;Gyeongsan-si;VERDADERO;Gyeongsan Seorin Nursing Home;66;35,782,149;128,801,498
+6000005;Gyeongsangbuk-do;from other city;VERDADERO;Pilgrimage to Israel;41;-;-
+6000006;Gyeongsangbuk-do;Yechun-gun;VERDADERO;Yechun-gun;40;36,646,845;128,437,416
+6000007;Gyeongsangbuk-do;Chilgok-gun;VERDADERO;Milal Shelter;36;360,581;1,284,941
+6000008;Gyeongsangbuk-do;Gyeongsan-si;VERDADERO;Gyeongsan Jeil Silver Town;17;3,584,819;1,287,621
+6000009;Gyeongsangbuk-do;Gyeongsan-si;VERDADERO;Gyeongsan Cham Joeun Community Center;16;3,582,558;1,287,373
+6000010;Gyeongsangbuk-do;Gumi-si;VERDADERO;Gumi Elim Church;10;-;-
+6000011;Gyeongsangbuk-do;-;FALSO;overseas inflow;22;-;-
+6000012;Gyeongsangbuk-do;-;FALSO;contact with patient;190;-;-
+6000013;Gyeongsangbuk-do;-;FALSO;etc;133;-;-
+6100001;Gyeongsangnam-do;from other city;VERDADERO;Shincheonji Church;32;-;-
+6100002;Gyeongsangnam-do;Geochang-gun;VERDADERO;Geochang Church;10;3,568,556;1,279,127
+6100003;Gyeongsangnam-do;Jinju-si;VERDADERO;Wings Tower;9;35,164,845;128,126,969
+6100004;Gyeongsangnam-do;Geochang-gun;VERDADERO;Geochang-gun Woongyang-myeon;8;35,805,681;127,917,805
+6100005;Gyeongsangnam-do;Changwon-si;VERDADERO;Hanmaeum Changwon Hospital;7;3,522,115;1,286,866
+6100006;Gyeongsangnam-do;Changnyeong-gun;VERDADERO;Changnyeong Coin Karaoke;7;3,554,127;1,285,008
+6100007;Gyeongsangnam-do;Yangsan-si;VERDADERO;Soso Seowon;3;35,338,811;129,017,508
+6100008;Gyeongsangnam-do;from other city;VERDADERO;Itaewon Clubs;2;-;-
+6100009;Gyeongsangnam-do;from other city;VERDADERO;Onchun Church;2;-;-
+6100010;Gyeongsangnam-do;-;FALSO;overseas inflow;26;-;-
+6100011;Gyeongsangnam-do;-;FALSO;contact with patient;6;-;-
+6100012;Gyeongsangnam-do;-;FALSO;etc;20;-;-
+7000001;Jeju-do;-;FALSO;overseas inflow;14;-;-
+7000002;Jeju-do;-;FALSO;contact with patient;0;-;-
+7000003;Jeju-do;-;FALSO;etc;4;-;-
+7000004;Jeju-do;from other city;VERDADERO;Itaewon Clubs;1;-;-
